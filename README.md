@@ -37,7 +37,7 @@ The script checks these paths automatically:
 | Distro | Path |
 |--------|------|
 | Fedora | `/usr/share/helium` |
-| CachyOS (AUR) | `/opt/helium-browser-bin` |
+| CachyOS | `/opt/helium-browser-bin` |
 
 If you have a weird ass vegan OS with some strange Helium path, Spam me on discord with it or make an issue on the github and I'll get you sorted.
 
